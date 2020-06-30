@@ -1,0 +1,17 @@
+{
+  "name": "geral",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "lucasfaq <lucasfaq@users.noreply.github.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/lucasfaq/Geral",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
